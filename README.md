@@ -4,7 +4,7 @@ Hello there, welcome to the helpdesk! This is a place where you can ask any ques
 
 ## Quick links
 
-- [New Discussion](https://github.com/roboapex/help/discussions/new)
+- [New Discussion](https://github.com/roboapex/roboapex-help/discussions/new)
 
 ## Get started
 
@@ -52,7 +52,7 @@ Instead, this happened: **explanation**
 
 Common problems
 
-1. sdkjfas;dlkjf
+1.
 2.
 
 ### Why isn't anyone replying to my issue?
@@ -80,3 +80,5 @@ In order to make it easier your trainer to understand the question, try to provi
 - What change did you make that caused the problem? Maybe you clicked a button? Maybe you deleted a file?
 
 - Which lesson is this question from? Or is it while you're experimenting and trying your own things out?
+
+- Ensure that it's categorized properly, iOS questions should be categorised as iOS, Android questions should be categorized as Android.
